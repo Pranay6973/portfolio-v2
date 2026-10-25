@@ -1,2 +1,17 @@
-# portfolio-v2
-A sleek, modern portfolio website showcasing my skills, projects, and journey as a developer. Featuring premium UI, smooth animations, responsive design, and interactive elements, it highlights my technical expertise, innovative projects, achievements, and passion for building impactful technology.
+# Personal Portfolio Website
+
+A modern, responsive portfolio website built entirely in a single `index.html` file, combining HTML, CSS, and JavaScript to showcase my skills, projects, achievements, and developer journey with a clean design and smooth interactions.
+
+## Features
+- Single-file architecture
+- Responsive design
+- Modern UI and animations
+- Skills and projects showcase
+- About and contact sections
+
+## Usage
+Download `index.html` and open it in any modern web browser.
+
+## Tech Stack
+HTML5, CSS3, JavaScript
+
